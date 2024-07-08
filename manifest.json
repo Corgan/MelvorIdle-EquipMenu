@@ -1,0 +1,4 @@
+{
+    "namespace": "equip_menu",
+    "setup": "setup.mjs"
+}
